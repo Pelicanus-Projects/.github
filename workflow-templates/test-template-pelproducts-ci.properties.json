@@ -1,7 +1,7 @@
 {
     "name": "Pelicanus Products Echo Hello Workflow",
     "description": "Pelicanus Products Echo Hello starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "pelican-icon",
     "categories": [
         "linux"
     ],
